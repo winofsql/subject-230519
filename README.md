@@ -11,6 +11,8 @@
   - ### 🔴 Google ドライブアプリの設定
     - ### G ドライブのショートカット
       ![image](https://github.com/winofsql/subject-230519/assets/1501327/8e5d8da5-8ea1-4b70-8ca3-cd2b9368760f)
+      
+      ![image](https://github.com/winofsql/subject-230519/assets/1501327/17101d8c-0ac9-4ef9-aa68-f01d6e9ad0b2)
    
     - ### PHP 環境の基本設定
 
