@@ -9,6 +9,9 @@
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/7e16bf17-1ae3-4c89-be7e-135c0aeeb9d2)
 
   - ### 🔴 Google ドライブアプリの設定
+    ![image](https://github.com/winofsql/subject-230519/assets/1501327/3e797fb8-b482-484e-958c-66dfdd5fd52c)
+
+
     - ### G ドライブのショートカット
       ![image](https://github.com/winofsql/subject-230519/assets/1501327/8e5d8da5-8ea1-4b70-8ca3-cd2b9368760f)
       
