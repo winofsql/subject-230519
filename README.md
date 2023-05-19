@@ -1,5 +1,7 @@
 # subject-230519
 
+![image](https://github.com/winofsql/subject-230519/assets/1501327/b972d5e5-c874-471b-afb4-772961238449)
+
 - ### Zoom レコーディング
   - ### 画面共有中の注釈の使い方
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/6ebfdb00-4df0-4b33-81da-593159df04b1)
