@@ -13,8 +13,7 @@
  
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/85bdccec-d9ee-4825-b8bf-eaa50dbed8dc)
 
-    ![image](https://github.com/winofsql/subject-230519/assets/1501327/9591da5f-e490-4c4d-9708-791b8908c41c)
-
+    ![image](https://github.com/winofsql/subject-230519/assets/1501327/9164d8ff-e1bc-477a-82eb-7d7f7e450269)
 
     - ### G ドライブのショートカット
       ![image](https://github.com/winofsql/subject-230519/assets/1501327/8e5d8da5-8ea1-4b70-8ca3-cd2b9368760f)
