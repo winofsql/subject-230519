@@ -2,7 +2,7 @@
 
 - ### Zoom レコーディング
   - ### 画面共有中の注釈の使い方
-    ![image](https://github.com/winofsql/subject-230519/assets/1501327/fe0e7d2d-cf8d-41e1-8dcd-f8ed2cf2679b)
+    
     
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/6ebfdb00-4df0-4b33-81da-593159df04b1)
 
