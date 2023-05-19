@@ -13,8 +13,6 @@
  
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/85bdccec-d9ee-4825-b8bf-eaa50dbed8dc)
 
-    ![image](https://github.com/winofsql/subject-230519/assets/1501327/17fd1f4a-1e7d-46c0-8f39-c7baacddd39a)
-
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/9591da5f-e490-4c4d-9708-791b8908c41c)
 
 
