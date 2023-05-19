@@ -9,6 +9,8 @@
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/7e16bf17-1ae3-4c89-be7e-135c0aeeb9d2)
 
   - ### 🔴 Google ドライブアプリの設定
+    ![image](https://github.com/winofsql/subject-230519/assets/1501327/6fc2b3dd-2e11-4533-bac9-71fe804b780f)
+ 
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/859d301b-0972-4229-84c7-b1c138383649)
 
     ![image](https://github.com/winofsql/subject-230519/assets/1501327/17fd1f4a-1e7d-46c0-8f39-c7baacddd39a)
